@@ -1,0 +1,90 @@
+{
+	"content": [
+		{
+			"nombre": "Nelson Mandela",
+			"contenido": "'Siempre parece imposible hasta que se hace'. 'Deja que la libertad reine. El sol nunca se pone sobre tan glorioso logro humano'. 'No hay nada como volver a un lugar que parece no haber cambiado para descubrir en qué cosas has cambiado tú mismo'. 'Vive la vida como si nadie mirase y exprésate como si todo el mundo escuchase'. 'El dinero no es la clave del éxito; la libertad para poder crear lo es'. 'He aprendido que el valor no es la ausencia de miedo, sino el triunfo sobre él'. 'El hombre valiente no es el que no siente miedo, sino el que lo domina'."
+		},{
+			"nombre": "Henry Ford",
+			"contenido": "'No busques los errores, busca un remedio'. 'Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta'. 'La mayoría de las personas gastan mas tiempo y energías en hablar de los problemas que en afrontarlos'. 'El secreto para una vida exitosa es encontrar nuestro propósito y luego hacerlo'. 'Cuando todo parezca estar en tu contra, recuerda que los aviones despegan con el viento en contra, no a favor'."
+		},
+		{
+			"nombre": "Abraham Lincoln",
+			"contenido": "'Casi todos podemos soportar la adversidad, pero si queréis poner a prueba de verdad el carácter de un hombre, dadle poder'. 'La probabilidad de perder en la lucha no debe disuadirnos de apoyar una causa que creemos que es justa'. 'Los libros nos dan la oportunidad de descubrir que nuestras ideas tan originales no lo eran tanto'. 'El capital es sólo el fruto del trabajo y nunca podría haber existido si el trabajo no hubiera existido primero'." 
+		},
+		{
+			"nombre": "Paulo Coelho",
+			"contenido": "'Un día despertarás y descubrirás que no tienes más tiempo para hacer lo que soñabas; El momento es ahora. Actúa'. 'Las dos pruebas más difíciles en el camino espiritual son: la paciencia para esperar el momento correcto y el valor de no decepcionarnos con lo que nos encontremos'. 'Todo el mundo parece tener una idea clara de cómo otras personas deben conducir sus vidas, pero ninguno sobre cómo hacerlo con la suya propia'. 'No podemos juzgar la vida de otros, ya que cada persona conoce su propio dolor y renuncia'. 'Una cosa es sentir que estás en el camino correcto, pero otra es pensar que el tuyo es el único camino." 
+		},
+		{
+			"nombre": "Margaret Fuller",
+			"contenido": "'Los hombres se olvidan de vivir porque están ocupados en ganarse la vida'. 'Hoy un lector mañana un lider'. 'Es asombroso que fuerza, pureza y sabiduría se que requiere para un ser humano se mantenga alejado de la falsedad'. 'La naturaleza proporciona excepciones a cada regla'. 'Si tiene conocimiento, deje que otros se iluminen con él'. 'Cuidado con el exceso de placer de ser popular o incluso amada'. 'Una casa no es un hogar a menos que contenga alimentos y fuego para la mente y el cuerpo'. 'El carácter y la historia de cada niño pueden ser una experiencia nueva y poética para los padres, si él lo permite'. 'El arte solo puede ser verdaderamente arte al presentar un símbolo externo adecuado de algún hecho en la vida interior'. 'Para la precocidad, siempre se exige un gran precio tarde o temprano'."
+		},
+		{
+			"nombre": "Steve Jobs",
+			"contenido": "'Recordar que vas a morir, es la mejor manera que conozco para no pensar que tienes algo que perder'. 'No hay ninguna razón para no seguir a tu corazón'. 'Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas'. 'Es más divertido hacerse pirata que unirse a la marina'. 'La innovación es lo que distingue a un líder de un seguidor'. 'Si vives cada día de tu vida como si fuera el último, algún día realmente tendrás razón'. 'Si hoy fuese el último día de mi vida, ¿querría hacer lo que voy a hacer hoy? Y si la respuesta era no durante demasiados días seguidos, sabía que necesitaba cambiar algo'."
+			},
+		{
+			"nombre": "Bob Marley",
+			"contenido": "'Mi vida es solo importante si puedo ayudar a muchos, si mi vida es para mi y mi seguridad entonces no la quiero'. 'Mi vida es para la gente esa es mi filosofía'. 'Mis pies son mi único vehículo, tengo que seguir dándole para adelante, pero mientras me voy, quiero decirte: Todo va a estar bien'. 'Es necesario entender las letras, su profundo significado'. 'Esta es la musica del tercer mundo, una bendicion, es la noticia cantada, la que no se enseña en la escuela'. 'Mi padre era blanco, mi madre era negra, y yo aterricé en el medio. Por lo tanto, ves, no soy nada, todo lo que soy me viene de Dios'. 'La gente que está tratando de hacer este mundo peor no toman ni un día libre, ¿cómo podría tomarlo yo? Ilumina la oscuridad'. 'Las guerras seguirán mientras el color de la piel siga siendo más importante que el color de los ojos'."
+		},
+		{
+			"nombre": "Aristóteles",
+			"contenido": "'La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas'. 'La verdadera felicidad consiste en hacer el bien'. 'No todo término merece el nombre de fin, sino tan sólo el que es óptimo'. 'Las ciencias tienen las raíces amargas, pero muy dulces los frutos'. 'La finalidad del arte es dar cuerpo a la esencia secreta de las cosas, no el copiar su apariencia'. 'El hombre nada puede aprender sino en virtud de lo que sabe'. 'Lo que con mucho trabajo se adquiere, más se ama'. 'La naturaleza no hace nada en vano'. 'El hombre solitario es una bestia o un dios'. 'Un amigo fiel es un alma en dos cuerpos'."
+			},
+		{
+			"nombre": "Benjamin Franklin",
+			"contenido": "'El corazón del loco está en la boca; pero la boca del sabio está en el corazón'. 'Aquél que se ama a sí mismo no tiene rival ninguno'. 'Los faros son más útiles que las iglesias'. 'Invertir en conocimientos produce siempre los mejores beneficios'. 'La felicidad no se produce por grandes golpes de fortuna, que ocurren raras veces, sino por pequeñas ventajas que ocurren todos los días'. 'La forma de ver mediante la fe es cerrar el ojo de la razón'. 'La pereza anda tan despacio que la pobreza no tarda en alcanzarla'. 'Las tres cosas más difíciles en este mundo son: guardar un secreto, perdonar un agravio y aprovechar el tiempo'. 'No cambies la salud por la riqueza, ni la libertad por el poder'. 'No hay inversión más rentable que la del conocimiento'. 'Sólo el hombre íntegro es capaz de confesar sus faltas y de reconocer sus errores'. 'El sol jamás se arrepiente del bien que hace, ni nunca exige una recompensa'."
+			},
+		{
+			"nombre": "Martin Luther King",
+			"contenido": "'Tengo un sueño, un solo sueño, seguir soñando'. 'Soñar con la libertad, soñar con la justicia, soñar con la igualdad y ojalá ya no tuviera necesidad de soñarlas'. 'Lo preocupante no es la perversidad de los malvados sino la indiferencia de los buenos'. 'No soy negro, soy hombre'. 'Hemos guiado a los misiles y desviado a los hombres'. 'Busco el día en el que la gente no sea juzgada por el color de su piel, sino por el contenido de su carácter'. 'El poder sin amor es abusivo y opresivo, mientras que el amor sin poder es anémico y demasiado permisivo'. 'Siempre es el momento apropiado para hacer lo que es correcto'. 'Si supiera que en el mundo se acaba mañana, yo, hoy todavía plantaría un árbol'. 'Nada se olvida más despacio que una ofensa y nada más rápido que un favor'."
+			},
+		{
+			"nombre": "Stephen Hawking",
+			"contenido": "'Recuerda mirar hacia las estrellas y no abajo hacia tus pies'. 'Trata de darle sentido a lo que ves y pregúntate qué haces que el universo. Sé curioso'. Por más dura que la vida pueda parecer, siempre hay algo que puedes hacer para llegar al éxito'. 'lo importante es que nunca te des por vencido'. 'La vida primitiva es muy común y la vida inteligente es bastante rara. Algunos dicen que aún tiene que ocurrir en la Tierra'. 'El error humano que más me gustaría corregir es la agresión'. 'Puede haber tenido una ventaja de supervivencia en los días de cavernícolas, para obtener más alimento, territorio o pareja con quien reproducirse, pero ahora amenaza con destruirnos a todos'. 'Sólo tenemos que mirarnos a nosotros mismos para ver cómo la vida podría convertirse en algo inteligente que no queremos llevar a cabo'. 'Somos sólo una raza avanzada de monos en un planeta menor de una estrella muy normal. Pero podemos entender el universo. Eso nos convierte en algo muy especial'."
+		},
+		{
+			"nombre": "Nelson Mandela",
+			"contenido": "'Siempre parece imposible hasta que se hace'. 'Deja que la libertad reine. El sol nunca se pone sobre tan glorioso logro humano'. 'No hay nada como volver a un lugar que parece no haber cambiado para descubrir en qué cosas has cambiado tú mismo'. 'Vive la vida como si nadie mirase y exprésate como si todo el mundo escuchase'. 'El dinero no es la clave del éxito; la libertad para poder crear lo es'. 'He aprendido que el valor no es la ausencia de miedo, sino el triunfo sobre él'. 'El hombre valiente no es el que no siente miedo, sino el que lo domina'."
+		},{
+			"nombre": "Henry Ford",
+			"contenido": "'No busques los errores, busca un remedio'. 'Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta'. 'La mayoría de las personas gastan mas tiempo y energías en hablar de los problemas que en afrontarlos'. 'El secreto para una vida exitosa es encontrar nuestro propósito y luego hacerlo'. 'Cuando todo parezca estar en tu contra, recuerda que los aviones despegan con el viento en contra, no a favor'."
+		},
+		{
+			"nombre": "Abraham Lincoln",
+			"contenido": "'Casi todos podemos soportar la adversidad, pero si queréis poner a prueba de verdad el carácter de un hombre, dadle poder'. 'La probabilidad de perder en la lucha no debe disuadirnos de apoyar una causa que creemos que es justa'. 'Los libros nos dan la oportunidad de descubrir que nuestras ideas tan originales no lo eran tanto'. 'El capital es sólo el fruto del trabajo y nunca podría haber existido si el trabajo no hubiera existido primero'." 
+		},
+		{
+			"nombre": "Paulo Coelho",
+			"contenido": "'Un día despertarás y descubrirás que no tienes más tiempo para hacer lo que soñabas; El momento es ahora. Actúa'. 'Las dos pruebas más difíciles en el camino espiritual son: la paciencia para esperar el momento correcto y el valor de no decepcionarnos con lo que nos encontremos'. 'Todo el mundo parece tener una idea clara de cómo otras personas deben conducir sus vidas, pero ninguno sobre cómo hacerlo con la suya propia'. 'No podemos juzgar la vida de otros, ya que cada persona conoce su propio dolor y renuncia'. 'Una cosa es sentir que estás en el camino correcto, pero otra es pensar que el tuyo es el único camino." 
+		},
+		{
+			"nombre": "Margaret Fuller",
+			"contenido": "'Los hombres se olvidan de vivir porque están ocupados en ganarse la vida'. 'Hoy un lector mañana un lider'. 'Es asombroso que fuerza, pureza y sabiduría se que requiere para un ser humano se mantenga alejado de la falsedad'. 'La naturaleza proporciona excepciones a cada regla'. 'Si tiene conocimiento, deje que otros se iluminen con él'. 'Cuidado con el exceso de placer de ser popular o incluso amada'. 'Una casa no es un hogar a menos que contenga alimentos y fuego para la mente y el cuerpo'. 'El carácter y la historia de cada niño pueden ser una experiencia nueva y poética para los padres, si él lo permite'. 'El arte solo puede ser verdaderamente arte al presentar un símbolo externo adecuado de algún hecho en la vida interior'. 'Para la precocidad, siempre se exige un gran precio tarde o temprano'."
+		},
+		{
+			"nombre": "Steve Jobs",
+			"contenido": "'Recordar que vas a morir, es la mejor manera que conozco para no pensar que tienes algo que perder'. 'No hay ninguna razón para no seguir a tu corazón'. 'Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas'. 'Es más divertido hacerse pirata que unirse a la marina'. 'La innovación es lo que distingue a un líder de un seguidor'. 'Si vives cada día de tu vida como si fuera el último, algún día realmente tendrás razón'. 'Si hoy fuese el último día de mi vida, ¿querría hacer lo que voy a hacer hoy? Y si la respuesta era no durante demasiados días seguidos, sabía que necesitaba cambiar algo'."
+			},
+		{
+			"nombre": "Bob Marley",
+			"contenido": "'Mi vida es solo importante si puedo ayudar a muchos, si mi vida es para mi y mi seguridad entonces no la quiero'. 'Mi vida es para la gente esa es mi filosofía'. 'Mis pies son mi único vehículo, tengo que seguir dándole para adelante, pero mientras me voy, quiero decirte: Todo va a estar bien'. 'Es necesario entender las letras, su profundo significado'. 'Esta es la musica del tercer mundo, una bendicion, es la noticia cantada, la que no se enseña en la escuela'. 'Mi padre era blanco, mi madre era negra, y yo aterricé en el medio. Por lo tanto, ves, no soy nada, todo lo que soy me viene de Dios'. 'La gente que está tratando de hacer este mundo peor no toman ni un día libre, ¿cómo podría tomarlo yo? Ilumina la oscuridad'. 'Las guerras seguirán mientras el color de la piel siga siendo más importante que el color de los ojos'."
+		},
+		{
+			"nombre": "Aristóteles",
+			"contenido": "'La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas'. 'La verdadera felicidad consiste en hacer el bien'. 'No todo término merece el nombre de fin, sino tan sólo el que es óptimo'. 'Las ciencias tienen las raíces amargas, pero muy dulces los frutos'. 'La finalidad del arte es dar cuerpo a la esencia secreta de las cosas, no el copiar su apariencia'. 'El hombre nada puede aprender sino en virtud de lo que sabe'. 'Lo que con mucho trabajo se adquiere, más se ama'. 'La naturaleza no hace nada en vano'. 'El hombre solitario es una bestia o un dios'. 'Un amigo fiel es un alma en dos cuerpos'."
+			},
+		{
+			"nombre": "Benjamin Franklin",
+			"contenido": "'El corazón del loco está en la boca; pero la boca del sabio está en el corazón'. 'Aquél que se ama a sí mismo no tiene rival ninguno'. 'Los faros son más útiles que las iglesias'. 'Invertir en conocimientos produce siempre los mejores beneficios'. 'La felicidad no se produce por grandes golpes de fortuna, que ocurren raras veces, sino por pequeñas ventajas que ocurren todos los días'. 'La forma de ver mediante la fe es cerrar el ojo de la razón'. 'La pereza anda tan despacio que la pobreza no tarda en alcanzarla'. 'Las tres cosas más difíciles en este mundo son: guardar un secreto, perdonar un agravio y aprovechar el tiempo'. 'No cambies la salud por la riqueza, ni la libertad por el poder'. 'No hay inversión más rentable que la del conocimiento'. 'Sólo el hombre íntegro es capaz de confesar sus faltas y de reconocer sus errores'. 'El sol jamás se arrepiente del bien que hace, ni nunca exige una recompensa'."
+			},
+		{
+			"nombre": "Martin Luther King",
+			"contenido": "'Tengo un sueño, un solo sueño, seguir soñando'. 'Soñar con la libertad, soñar con la justicia, soñar con la igualdad y ojalá ya no tuviera necesidad de soñarlas'. 'Lo preocupante no es la perversidad de los malvados sino la indiferencia de los buenos'. 'No soy negro, soy hombre'. 'Hemos guiado a los misiles y desviado a los hombres'. 'Busco el día en el que la gente no sea juzgada por el color de su piel, sino por el contenido de su carácter'. 'El poder sin amor es abusivo y opresivo, mientras que el amor sin poder es anémico y demasiado permisivo'. 'Siempre es el momento apropiado para hacer lo que es correcto'. 'Si supiera que en el mundo se acaba mañana, yo, hoy todavía plantaría un árbol'. 'Nada se olvida más despacio que una ofensa y nada más rápido que un favor'."
+			},
+		{
+			"nombre": "Stephen Hawking",
+			"contenido": "'Recuerda mirar hacia las estrellas y no abajo hacia tus pies'. 'Trata de darle sentido a lo que ves y pregúntate qué haces que el universo. Sé curioso'. Por más dura que la vida pueda parecer, siempre hay algo que puedes hacer para llegar al éxito'. 'lo importante es que nunca te des por vencido'. 'La vida primitiva es muy común y la vida inteligente es bastante rara. Algunos dicen que aún tiene que ocurrir en la Tierra'. 'El error humano que más me gustaría corregir es la agresión'. 'Puede haber tenido una ventaja de supervivencia en los días de cavernícolas, para obtener más alimento, territorio o pareja con quien reproducirse, pero ahora amenaza con destruirnos a todos'. 'Sólo tenemos que mirarnos a nosotros mismos para ver cómo la vida podría convertirse en algo inteligente que no queremos llevar a cabo'. 'Somos sólo una raza avanzada de monos en un planeta menor de una estrella muy normal. Pero podemos entender el universo. Eso nos convierte en algo muy especial'."
+		}
+	]
+}

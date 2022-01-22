@@ -1,0 +1,100 @@
+body {
+	font-family: sans-serif;
+	text-align: center;	
+	
+}
+
+
+body, h1, div, p {
+	margin: 0;
+	padding: 0;
+}
+.publicacion {
+	text-align: left;
+	margin: 40px;
+	color: #555;
+	opacity: 0;
+	animation: aparecer 2s forwards 0.5s;
+}
+
+.publicacion p{
+	padding: 20px;
+	border-left: 1px solid #48e;
+}
+
+.publicacion h1{
+	color: #48e;
+	border-bottom: 1px solid #48e;
+}
+
+.comentarios {
+	display: flex;
+}
+
+.comentarios input {
+	padding: 5px 10px;
+	background: #48e;
+	outline: none;
+	color: #fff;
+	border: none;
+}
+
+.comentario {
+	flex-grow: 1;
+	text-align: center;
+}
+
+.comentarios .enviar{
+	min-width: 60px;	
+}
+.comentario::placeholder {
+color: #fff;
+}
+
+.comentarios .enviar:hover{
+	color: #180c54;	
+}
+
+@keyframes aparecer {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+/*.caja1, .caja2, .caja3, .caja4 {
+	width: 300PX;
+	height: 300PX;
+	display: flex;
+	background: #48e;
+	font-size: 30px;
+	margin: auto;
+	border: 2px dashed #000077;
+	margin-top: 5px;
+}
+span {
+	margin: auto;
+	color: #fff;
+}
+
+.caja2:nth-child(2) {
+	background: #900;
+}
+
+.caja3:nth-child(3) {
+	background: #090;
+}
+.caja4:nth-child(4) {
+	background: #842ce1;
+}
+
+.responsive-caja {
+	width: 100PX;
+	height: 100PX;
+	display: flex;
+	background: #89f;
+	font-size: 30px;
+	margin: auto;
+}*/
